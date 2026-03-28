@@ -1,4 +1,4 @@
-#  India Air Quality Analysis (2015-2023)
+#  India_Air_Quality_Analysis (2015-2023)
 
 ##  Problem Statement
 India's rapid urbanization and industrial growth have led to alarming levels of air pollution across major cities. This project analyzes 9 years of daily AQI data across 8 major Indian cities to identify pollution trends, seasonal patterns, COVID lockdown impact and dominant pollutants.
