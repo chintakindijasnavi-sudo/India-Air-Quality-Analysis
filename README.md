@@ -95,4 +95,5 @@ Bengaluru | 632 | 0
 ## Author
 **Chintakindi Jasnavi**
 Email: chintakindijasnavi@gmail.com
+linkedin: www.linkedin.com/in/chintakindi-jasnavi
 GitHub: https://github.com/chintakindijasnavi-sudo/India-Air-Quality-Analysis/edit/main/README.md
