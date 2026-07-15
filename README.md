@@ -27,7 +27,7 @@ Cities : 8 major Indian cities
 Tool : Purpose 
 Python (Pandas) : Data cleaning and analysis 
 Matplotlib & Seaborn : Data visualization 
-MySQL : Data querying 
+MySQL : Data querying       ,
 Power BI : Interactive dashboard 
 
 
